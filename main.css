@@ -1,0 +1,44 @@
+.osccommunity-nav.navbar > .container .navbar-brand {
+    margin: 0 auto;
+    margin-left: auto;
+}
+.osccommunity-nav .navbar-item img {
+    max-height: 3rem;
+}
+.osccommunity-intro {
+    background: #00BED6;
+}
+.osccommunity-intro h1.title {
+    color: #ffffff;
+    font-weight: initial;
+}
+.osccommunity-intro h1.title strong {
+    font-weight: 600;
+}
+.osccommunity-intro .button.is-dark {
+    margin: 0 auto;
+}
+.osccommunity-subtitle {
+    border-bottom: 2px solid #00BED6;
+}
+.osccommunity-resource.box {
+    box-shadow: none;
+}
+.osccommunity-footer {
+    background: #00BED6;
+    padding: 3rem 1.5rem 3rem;
+}
+.osccommunity-footer p {
+    color: #ffffff;
+}
+@media screen and (min-width: 769px), print {
+    .osccommunity-intro.hero.is-medium .hero-body {
+        padding-bottom: 5rem;
+        padding-top: 5rem;
+    }
+}
+@media screen and (max-width: 1023px) {
+    .osccommunity-nav.navbar .container {
+        display: flex;
+    }
+}
