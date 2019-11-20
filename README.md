@@ -1,4 +1,4 @@
-[![Made with Bulma](https://bulma.io/images/made-with-bulma.png)](https://bulma.io)
+[![Made with Bulma](https://bulma.io/images/made-with-bulma.png = 128x24)](https://bulma.io)
 
 # Osclass Community landing page
 Landing page for osclasscommunity.com.
